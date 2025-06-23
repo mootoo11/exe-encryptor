@@ -1,5 +1,5 @@
 
-## 🇬🇧 English
+## English
 
 ### 📌 Purpose:
 A tool to encrypt EXE files and convert them into encrypted DLLs, with an auto-generated script (`decrypt_stub.py`) for decrypting and temporarily running the original file.
